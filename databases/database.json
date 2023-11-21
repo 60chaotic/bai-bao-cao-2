@@ -1,0 +1,872 @@
+{
+    "fryer": [
+        {
+            "id": 1,
+            "title": "Nồi chiên không dầu Elmich 4.0L",
+            "description": "An apple mobile which is nothing like apple",
+            "price": 549,
+            "discountPercentage": 12.96,
+            "rating": 3.44,
+            "stock": 60,
+            "brand": "Elmich",
+            "category": "fryer",
+            "thumbnail": "https://elmich.vn/wp-content/uploads/2023/10/z3086489137864_27956e1bbd59ea8f5866c9b6d011223c-1.jpg"
+
+        },
+        {
+            "id": 2,
+            "title": "Nồi chiên không dầu SHD4035",
+            "description": "An apple mobile which is nothing like apple",
+            "price": 549,
+            "discountPercentage": 12.96,
+            "rating": 3.72,
+            "stock": 40,
+            "brand": "sunhouse",
+            "category": "fryer",
+            "thumbnail": "https://cdn.mediamart.vn/images/product/ni-chien-khong-du-9l-sunhouse-shd4035_8f45d647.png"
+
+        },
+        {
+            "id": 3,
+            "title": "Nồi chiên không dầu KU PCS6218",
+            "description": "An apple mobile which is nothing like apple",
+            "price": 549,
+            "discountPercentage": 12.96,
+            "rating": 3.70,
+            "stock": 40,
+            "brand": "Kuchen",
+            "category": "fryer",
+            "thumbnail": "https://kuchen.com.vn/wp-content/uploads/2022/07/noi-chien-khong-dau-1.jpg"
+
+        },
+        {
+            "id": 4,
+            "title": "Nồi chiên không dầu Mocato M607",
+            "description": "An apple mobile which is nothing like apple",
+            "price": 549,
+            "discountPercentage": 12.96,
+            "rating": 3.22,
+            "stock": 41,
+            "brand": "Mocato",
+            "category": "fryer",
+            "thumbnail": "https://product.hstatic.net/1000220755/product/untitled-1_467c40bbb0ef45b5acefb976feebe1c3_master.png"
+
+        },
+        {
+            "id": 5,
+            "title": "Nồi chiên không dầu EUROSUN Ar15B",
+            "description": "An apple mobile which is nothing like apple",
+            "price": 549,
+            "discountPercentage": 12.96,
+            "rating": 3.62,
+            "stock": 39,
+            "brand": "Eurosun",
+            "category": "fryer",
+            "thumbnail": "https://eurosuns.vn/data/news/15385/noi-chien-khong-dau-eurosun-eu-ar15b.JPG"
+
+        }
+    ],
+    "fan": [
+        {
+            "id": 1,
+            "title": "Quạt không cánh Dyson TP00",
+            "description": "An apple mobile which is nothing like apple",
+            "price": 549,
+            "discountPercentage": 12.96,
+            "rating": 4.69,
+            "stock": 16,
+            "brand": "Kiwi",
+            "category": "fan",
+            "thumbnail": "https://congnghenhat.com/wp-content/uploads/2018/12/Quat-khong-canh-Dyson-TP00.jpg"
+
+        }
+    ],
+    "pan": [
+        {
+            "id": 1,
+            "title": "Chảo chống dính Goldsun",
+            "description": "An apple mobile which is nothing like apple",
+            "price": 549,
+            "discountPercentage": 12.96,
+            "rating": 4.69,
+            "stock": 94,
+            "brand": "Gold",
+            "category": "pan",
+            "thumbnail": "https://cdn0286.cdn4s.com/media/gpa1005-20ih.png"
+
+        },
+        {
+            "id": 2,
+            "title": "Chảo sần chống dính SUNHOUSE",
+            "description": "An apple mobile which is nothing like apple",
+            "price": 549.000,
+            "discountPercentage": 12.96,
+            "rating": 4.29,
+            "stock": 94,
+            "brand": "sunhouse",
+            "category": "pan",
+            "thumbnail": "https://sunhouse.com.vn/pic/product/images/chao-chong-dinh-sunhouse-cs28-002.jpg"
+
+        }
+    ],
+    "knife": [
+        {
+            "id": 1,
+            "title": "Dao Kiwi Thailand",
+            "description": "An apple mobile which is nothing like apple",
+            "price": 549.000,
+            "discountPercentage": 12.96,
+            "rating": 4.69,
+            "stock": 94,
+            "brand": "Kiwi",
+            "category": "knife",
+            "thumbnail": "https://www.myky.vn/Data/Sites/1/Product/2985/thumbnail.jpg"
+
+        },
+        {
+            "id": 2,
+            "title": "DAO KIWI 21 INOX",
+            "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+            "price": 899,
+            "discountPercentage": 17.94,
+            "rating": 4.44,
+            "stock": 34,
+            "brand": "Kiwi",
+            "category": "knife",
+            "thumbnail": "https://salt.tikicdn.com/ts/product/21/3f/a1/7b05912911e22c1b77c6f38c47301d20.jpg"
+
+        },
+        {
+            "id": 3,
+            "title": "Dao Pro Master 481",
+            "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+            "price": 1249,
+            "discountPercentage": 15.46,
+            "rating": 4.09,
+            "stock": 36,
+            "brand": "Samsung",
+            "category": "smartphones",
+            "thumbnail": "https://product.hstatic.net/200000409027/product/01_-_dao_thai_thit_20cm_ban_lon__471__6893f3277e884d86b0623351b82da269_master.jpg"
+
+        },
+        {
+            "id": 4,
+            "title": "Dao thái thịt Pro Master 761",
+            "description": "OPPO F19 is officially announced on April 2021.",
+            "price": 280,
+            "discountPercentage": 17.91,
+            "rating": 4.3,
+            "stock": 123,
+            "brand": "OPPO",
+            "category": "smartphones",
+            "thumbnail": "https://cdn.mekoong.com/wp-content/uploads/2023/01/02_-_dao_cat_rau_qua_20cm_nhon__781_kr_a2c261688aca40e6a941b42a6296fe93_large.jpg"
+
+        },
+        {
+            "id": 5,
+            "title": "Dao SANTOKU165",
+            "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+            "price": 499,
+            "discountPercentage": 10.58,
+            "rating": 4.09,
+            "stock": 32,
+            "brand": "Huawei",
+            "category": "smartphones",
+            "thumbnail": "https://vimexcom.vn/wp-content/uploads/2019/01/Dao-nh%C3%A0-b%E1%BA%BFp-cao-c%E1%BA%A5p-si%C3%AAu-s%E1%BA%AFc-SANTOKU165-600x600.jpg"
+
+        },
+        {
+            "id": 6,
+            "title": "Dao NAKIRI165",
+            "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+            "price": 1749,
+            "discountPercentage": 11.02,
+            "rating": 4.57,
+            "stock": 83,
+            "brand": "Apple",
+            "category": "laptops",
+            "thumbnail": "https://cf.shopee.vn/file/5379ee201fcfa10e775504512c4ecfed"
+        },
+        {
+            "id": 7,
+            "title": "Dao Masamoto",
+            "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+            "price": 1499,
+            "discountPercentage": 4.15,
+            "rating": 4.25,
+            "stock": 50,
+            "brand": "Samsung",
+            "category": "laptops",
+            "thumbnail": "https://cf.shopee.vn/file/sg-11134201-22100-0ejd4gkabaiv3f"
+        },
+        {
+            "id": 8,
+            "title": "Dao Santoku",
+            "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+            "price": 1499,
+            "discountPercentage": 10.23,
+            "rating": 4.43,
+            "stock": 68,
+            "brand": "Microsoft Surface",
+            "category": "laptops",
+            "thumbnail": "https://bepnhalanny.com/wp-content/uploads/2023/05/Dao-da-nang-Santoku-Nhat-Ban-KU-JN165-1.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Knife CF",
+            "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+            "price": 1099,
+            "discountPercentage": 11.83,
+            "rating": 4.54,
+            "stock": 96,
+            "brand": "Infinix",
+            "category": "Knife",
+            "thumbnail": "https://img.bestdealplus.com/ae04/kf/HTB1szKWd9BYBeNjy0Feq6znmFXaf.jpg"
+        }
+
+    ],
+    "choppingBoard": [
+        
+            {
+                "id": 1,
+                "title": "Thớt tròn",
+                "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+                "price": 1099,
+                "discountPercentage": 6.18,
+                "rating": 4.43,
+                "stock": 89,
+                "brand": "HP Pavilion",
+                "category": "chopping board",
+                "thumbnail": "https://bamboogreen.vn/wp-content/uploads/2020/03/TTR303020-3-2.jpg"
+            },
+            {
+                "id": 2,
+                "title": "Thớt gỗ Chữ Nhật",
+                "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
+                "price": 13,
+                "discountPercentage": 8.4,
+                "rating": 4.26,
+                "stock": 65,
+                "brand": "Impression of Acqua Di Gio",
+                "category": "chopping board",
+                "thumbnail": "https://govanthuan.com/wp-content/uploads/2022/03/3JE_5402-1-scaled.jpg"
+            },
+            {
+                "id": 3,
+                "title": "Thớt Gỗ Thông",
+                "description": "Royal_Mirage Sport Brown Perfume for Men & Women - 120ml",
+                "price": 40,
+                "discountPercentage": 15.66,
+                "rating": 4,
+                "stock": 52,
+                "brand": "Royal_Mirage",
+                "category": "chopping board",
+                "thumbnail": "https://ptphucthinh.com/wp-content/uploads/2020/03/thot-go-tron-40cm-day-10cm-gia-re.jpg"
+            },
+            {
+                "id": 4,
+                "title": "Thớt gỗ méo",
+                "description": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men",
+                "price": 13,
+                "discountPercentage": 8.14,
+                "rating": 4.59,
+                "stock": 61,
+                "brand": "Fog Scent Xpressio",
+                "category": "chopping board",
+                "thumbnail": "https://bizweb.dktcdn.net/100/384/801/products/132cdd0473b08ceed5a1.jpg?v=1601459662073"
+            },
+            {
+                "id": 5,
+                "title": "Thớt nhựa",
+                "description": "Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil",
+                "price": 120,
+                "discountPercentage": 15.6,
+                "rating": 4.21,
+                "stock": 114,
+                "brand": "Al Munakh",
+                "category": "chopping board",
+                "thumbnail": "https://nhuacantho.com/public/upload/images/hinhsanpham/thot-nhua-47001596791580.jpg"
+            },
+            {
+                "id": 6,
+                "title": "Thớt nhựa giả đá",
+                "description": "Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
+                "price": 30,
+                "discountPercentage": 10.99,
+                "rating": 4.7,
+                "stock": 65,
+                "brand": "Lord - Al-Rehab",
+                "category": "chopping board",
+                "thumbnail": "https://dathangsi.vn/upload/products/2021/05/05_0547-thot-nhua-gia-da-36x28cm.jpg"
+            },
+            {
+                "id": 7,
+                "title": "Thớt nhựa tròn",
+                "description": "L'OrÃ©al Paris introduces Hyaluron Expert Replumping Serum formulated with 1.5% Hyaluronic Acid",
+                "price": 19,
+                "discountPercentage": 13.31,
+                "rating": 4.83,
+                "stock": 110,
+                "brand": "L'Oreal Paris",
+                "category": "chopping board",
+                "thumbnail": "https://bizweb.dktcdn.net/thumb/large/100/469/765/products/thot-nhua-tron-lon-pn601.jpg"
+            },
+            {
+                "id": 8,
+                "title": "Thớt gỗ Chữ Nhật",
+                "description": "Tea tree oil contains a number of compounds, including terpinen-4-ol, that have been shown to kill certain bacteria,",
+                "price": 12,
+                "discountPercentage": 4.09,
+                "rating": 4.52,
+                "stock": 78,
+                "brand": "Hemani Tea",
+                "category": "chopping board",
+                "thumbnail": "https://dungcunhabepbanggo.com/wp-content/uploads/2022/01/thot-go-co-tay-cam.jpg"
+            },
+            {
+                "id": 9,
+                "title": "Thớt gỗ Chữ Nhật",
+                "description": "Dermive Oil Free Moisturizer with SPF 20 is specifically formulated with ceramides, hyaluronic acid & sunscreen.",
+                "price": 40,
+                "discountPercentage": 13.1,
+                "rating": 4.56,
+                "stock": 88,
+                "brand": "Dermive",
+                "category": "chopping board",
+                "thumbnail": "https://adxplywood.com/wp-content/uploads/2022/06/ADXCB006-front.jpg"
+            },
+            {
+                "id": 10,
+                "title": "Thớt Gỗ Thông",
+                "description": "Product name: rorec collagen hyaluronic acid white face serum riceNet weight: 15 m",
+                "price": 46,
+                "discountPercentage": 10.68,
+                "rating": 4.42,
+                "stock": 54,
+                "brand": "ROREC White Rice",
+                "category": "chopping board",
+                "thumbnail": "https://www.goghepthanh.com/uploads/4/1/5/7/41577789/th-t-c-tay-c-m-tram_orig.jpg"
+            },
+            {
+                "id": 11,
+                "title": "Thớt nhựa dài",
+                "description": "Fair & Clear is Pakistan's only pure Freckle cream which helpsfade Freckles, Darkspots and pigments. Mercury level is 0%, so there are no side effects.",
+                "price": 70,
+                "discountPercentage": 16.99,
+                "rating": 4.06,
+                "stock": 140,
+                "brand": "Fair & Clear",
+                "category": "chopping board",
+                "thumbnail": "https://inoxngocthuy.com/image/cache/catalog/products/dung-cu-nau-an/dao-thot/thot-nhua-20x30-cm-mau-do-875-400x400.jpg"
+            },
+            {
+                "id": 12,
+                "title": "Thớt nhựa",
+                "description": "Fine quality Branded Product Keep in a cool and dry place",
+                "price": 20,
+                "discountPercentage": 4.81,
+                "rating": 4.44,
+                "stock": 16,
+                "brand": "Saaf & Khaas",
+                "category": "chopping board",
+                "thumbnail": "https://vn-live-01.slatic.net/p/a9599d596ec3921affc101bbd1d90b3b.jpg"
+            },
+            {
+                "id": 13,
+                "title": "Thớt gỗ tròn trịa",
+                "description": "Fine quality Branded Product Keep in a cool and dry place",
+                "price": 20,
+                "discountPercentage": 4.81,
+                "rating": 4.44,
+                "stock": 43,
+                "brand": "Saaf & Khaas",
+                "category": "chopping board",
+                "thumbnail": "https://hstatic.net/205/1000065205/1/2015/12-30/pr38_master.jpg"
+            },
+            {
+                "id": 14,
+                "title": "Thớt nhựa",
+                "description": "Fine quality Branded Product Keep in a cool and dry place",
+                "price": 20,
+                "discountPercentage": 4.81,
+                "rating": 4.44,
+                "stock": 22,
+                "brand": "Saaf & Khaas",
+                "category": "chopping board",
+                "thumbnail": "https://vn-live-01.slatic.net/p/a9599d596ec3921affc101bbd1d90b3b.jpg"
+            },
+            {
+                "id": 15,
+                "title": "Thớt nhựa",
+                "description": "Fine quality Branded Product Keep in a cool and dry place",
+                "price": 54,
+                "discountPercentage": 4.81,
+                "rating": 4.44,
+                "stock": 133,
+                "brand": "Saaf & Khaas",
+                "category": "chopping board",
+                "thumbnail": "https://vn-live-01.slatic.net/p/a9599d596ec3921affc101bbd1d90b3b.jpg"
+            }
+        
+    ],
+    "products": [
+        {
+            "id": 1,
+            "title": "Nồi chiên không dầu Elmich 4.0L",
+            "description": "An apple mobile which is nothing like apple",
+            "price": 549,
+            "discountPercentage": 12.96,
+            "rating": 3.44,
+            "stock": 60,
+            "brand": "Elmich",
+            "category": "fryer",
+            "thumbnail": "https://elmich.vn/wp-content/uploads/2023/10/z3086489137864_27956e1bbd59ea8f5866c9b6d011223c-1.jpg"
+
+        },
+        {
+            "id": 2,
+            "title": "Nồi chiên không dầu SHD4035",
+            "description": "An apple mobile which is nothing like apple",
+            "price": 549,
+            "discountPercentage": 12.96,
+            "rating": 3.72,
+            "stock": 40,
+            "brand": "sunhouse",
+            "category": "fryer",
+            "thumbnail": "https://cdn.mediamart.vn/images/product/ni-chien-khong-du-9l-sunhouse-shd4035_8f45d647.png"
+
+        },
+        {
+            "id": 3,
+            "title": "Nồi chiên không dầu KU PCS6218",
+            "description": "An apple mobile which is nothing like apple",
+            "price": 549,
+            "discountPercentage": 12.96,
+            "rating": 3.70,
+            "stock": 40,
+            "brand": "Kuchen",
+            "category": "fryer",
+            "thumbnail": "https://kuchen.com.vn/wp-content/uploads/2022/07/noi-chien-khong-dau-1.jpg"
+
+        },
+        {
+            "id": 4,
+            "title": "Nồi chiên không dầu Mocato M607",
+            "description": "An apple mobile which is nothing like apple",
+            "price": 549,
+            "discountPercentage": 12.96,
+            "rating": 3.22,
+            "stock": 41,
+            "brand": "Mocato",
+            "category": "fryer",
+            "thumbnail": "https://product.hstatic.net/1000220755/product/untitled-1_467c40bbb0ef45b5acefb976feebe1c3_master.png"
+
+        },
+        {
+            "id": 5,
+            "title": "Nồi chiên không dầu EUROSUN Ar15B",
+            "description": "An apple mobile which is nothing like apple",
+            "price": 559,
+            "discountPercentage": 12.96,
+            "rating": 3.62,
+            "stock": 39,
+            "brand": "Eurosun",
+            "category": "fryer",
+            "thumbnail": "https://eurosuns.vn/data/news/15385/noi-chien-khong-dau-eurosun-eu-ar15b.JPG"
+
+        },
+        {
+            "id": 6,
+            "title": "Quạt không cánh Dyson TP00",
+            "description": "An apple mobile which is nothing like apple",
+            "price": 499,
+            "discountPercentage": 12.96,
+            "rating": 4.69,
+            "stock": 16,
+            "brand": "Kiwi",
+            "category": "fan",
+            "thumbnail": "https://congnghenhat.com/wp-content/uploads/2018/12/Quat-khong-canh-Dyson-TP00.jpg"
+
+        },
+        {
+            "id": 7,
+            "title": "Bộ 4 lọ đựng gia vị L&L",
+            "description": "An apple mobile which is nothing like apple",
+            "price": 80,
+            "discountPercentage": 12.96,
+            "rating": 4.99,
+            "stock": 36,
+            "brand": "Lock&Lock",
+            "category": "jar",
+            "thumbnail": "https://locknlock.store/wp-content/uploads/2021/10/LLG843.jpg"
+
+        },
+        {
+            "id": 8,
+            "title": "Chảo Chống Dính Goldsun",
+            "description": "An apple mobile which is nothing like apple",
+            "price": 549,
+            "discountPercentage": 12.96,
+            "rating": 4.69,
+            "stock": 94,
+            "brand": "Kiwi",
+            "category": "knife",
+            "thumbnail": "https://cdn0286.cdn4s.com/media/gpa1005-20ih.png"
+
+        },
+        {
+            "id": 9,
+            "title": "Chảo Chống Dính Sunhouse SHM20MB",
+            "description": "An apple mobile which is nothing like apple",
+            "price": 559,
+            "discountPercentage": 12.96,
+            "rating": 4.29,
+            "stock": 94,
+            "brand": "sunhouse",
+            "category": "pan",
+            "thumbnail": "https://sunhouse.com.vn/pic/product/images/chao-chong-dinh-sunhouse-cs28-002.jpg"
+
+        },
+        {
+            "id": 10,
+            "title": "Dao Kiwi Thailand",
+            "description": "An apple mobile which is nothing like apple",
+            "price": 549.000,
+            "discountPercentage": 12.96,
+            "rating": 4.69,
+            "stock": 94,
+            "brand": "Kiwi",
+            "category": "knife",
+            "thumbnail": "https://www.myky.vn/Data/Sites/1/Product/2985/thumbnail.jpg"
+
+        },
+        {
+            "id": 11,
+            "title": "DAO KIWI 21 INOX",
+            "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+            "price": 899,
+            "discountPercentage": 17.94,
+            "rating": 4.44,
+            "stock": 34,
+            "brand": "Kiwi",
+            "category": "knife",
+            "thumbnail": "https://salt.tikicdn.com/ts/product/21/3f/a1/7b05912911e22c1b77c6f38c47301d20.jpg"
+
+        },
+        {
+            "id": 12,
+            "title": "Dao Pro Master 481",
+            "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+            "price": 1.249,
+            "discountPercentage": 15.46,
+            "rating": 4.09,
+            "stock": 36,
+            "brand": "Samsung",
+            "category": "smartphones",
+            "thumbnail": "https://product.hstatic.net/200000409027/product/01_-_dao_thai_thit_20cm_ban_lon__471__6893f3277e884d86b0623351b82da269_master.jpg"
+
+        },
+        {
+            "id": 13,
+            "title": "Dao thái thịt Pro Master 761",
+            "description": "OPPO F19 is officially announced on April 2021.",
+            "price": 280,
+            "discountPercentage": 17.91,
+            "rating": 4.3,
+            "stock": 123,
+            "brand": "OPPO",
+            "category": "smartphones",
+            "thumbnail": "https://cdn.mekoong.com/wp-content/uploads/2023/01/02_-_dao_cat_rau_qua_20cm_nhon__781_kr_a2c261688aca40e6a941b42a6296fe93_large.jpg"
+
+        },
+        {
+            "id": 14,
+            "title": "Dao SANTOKU165",
+            "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+            "price": 499,
+            "discountPercentage": 10.58,
+            "rating": 4.09,
+            "stock": 32,
+            "brand": "Huawei",
+            "category": "smartphones",
+            "thumbnail": "https://vimexcom.vn/wp-content/uploads/2019/01/Dao-nh%C3%A0-b%E1%BA%BFp-cao-c%E1%BA%A5p-si%C3%AAu-s%E1%BA%AFc-SANTOKU165-600x600.jpg"
+
+        },
+        {
+            "id": 15,
+            "title": "Dao NAKIRI165",
+            "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+            "price": 1.749,
+            "discountPercentage": 11.02,
+            "rating": 4.57,
+            "stock": 83,
+            "brand": "Apple",
+            "category": "laptops",
+            "thumbnail": "https://cf.shopee.vn/file/5379ee201fcfa10e775504512c4ecfed"
+        },
+        {
+            "id": 16,
+            "title": "Dao Masamoto",
+            "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+            "price": 1.499,
+            "discountPercentage": 4.15,
+            "rating": 4.25,
+            "stock": 50,
+            "brand": "Samsung",
+            "category": "laptops",
+            "thumbnail": "https://cf.shopee.vn/file/sg-11134201-22100-0ejd4gkabaiv3f"
+        },
+        {
+            "id": 17,
+            "title": "Dao Santoku",
+            "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+            "price": 1.499,
+            "discountPercentage": 10.23,
+            "rating": 4.43,
+            "stock": 68,
+            "brand": "Microsoft Surface",
+            "category": "laptops",
+            "thumbnail": "https://bepnhalanny.com/wp-content/uploads/2023/05/Dao-da-nang-Santoku-Nhat-Ban-KU-JN165-1.jpg"
+        },
+        {
+            "id": 18,
+            "title": "Knife CF",
+            "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+            "price": 1.199,
+            "discountPercentage": 11.83,
+            "rating": 4.54,
+            "stock": 96,
+            "brand": "Infinix",
+            "category": "Knife",
+            "thumbnail": "https://img.bestdealplus.com/ae04/kf/HTB1szKWd9BYBeNjy0Feq6znmFXaf.jpg"
+        },
+        {
+            "id": 19,
+            "title": "Thớt tròn",
+            "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+            "price": 1.099,
+            "discountPercentage": 6.18,
+            "rating": 4.43,
+            "stock": 89,
+            "brand": "HP Pavilion",
+            "category": "chopping board",
+            "thumbnail": "https://bamboogreen.vn/wp-content/uploads/2020/03/TTR303020-3-2.jpg"
+        },
+        {
+            "id": 20,
+            "title": "Thớt gỗ Chữ Nhật",
+            "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
+            "price": 300,
+            "discountPercentage": 8.4,
+            "rating": 4.26,
+            "stock": 65,
+            "brand": "Impression of Acqua Di Gio",
+            "category": "chopping board",
+            "thumbnail": "https://govanthuan.com/wp-content/uploads/2022/03/3JE_5402-1-scaled.jpg"
+        },
+        {
+            "id": 21,
+            "title": "Thớt Gỗ Thông",
+            "description": "Royal_Mirage Sport Brown Perfume for Men & Women - 120ml",
+            "price": 400,
+            "discountPercentage": 15.66,
+            "rating": 4,
+            "stock": 52,
+            "brand": "Royal_Mirage",
+            "category": "chopping board",
+            "thumbnail": "https://ptphucthinh.com/wp-content/uploads/2020/03/thot-go-tron-40cm-day-10cm-gia-re.jpg"
+        },
+        {
+            "id": 22,
+            "title": "Thớt gỗ méo",
+            "description": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men",
+            "price": 250,
+            "discountPercentage": 8.14,
+            "rating": 4.59,
+            "stock": 61,
+            "brand": "Fog Scent Xpressio",
+            "category": "chopping board",
+            "thumbnail": "https://bizweb.dktcdn.net/100/384/801/products/132cdd0473b08ceed5a1.jpg?v=1601459662073"
+        },
+        {
+            "id": 23,
+            "title": "Thớt nhựa",
+            "description": "Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil",
+            "price": 100,
+            "discountPercentage": 15.6,
+            "rating": 4.21,
+            "stock": 114,
+            "brand": "Al Munakh",
+            "category": "chopping board",
+            "thumbnail": "https://nhuacantho.com/public/upload/images/hinhsanpham/thot-nhua-47001596791580.jpg"
+        },
+        {
+            "id": 24,
+            "title": "Thớt nhựa giả đá",
+            "description": "Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
+            "price": 130,
+            "discountPercentage": 10.99,
+            "rating": 4.7,
+            "stock": 65,
+            "brand": "Lord - Al-Rehab",
+            "category": "chopping board",
+            "thumbnail": "https://dathangsi.vn/upload/products/2021/05/05_0547-thot-nhua-gia-da-36x28cm.jpg"
+        },
+        {
+            "id": 25,
+            "title": "Thớt nhựa tròn",
+            "description": "L'OrÃ©al Paris introduces Hyaluron Expert Replumping Serum formulated with 1.5% Hyaluronic Acid",
+            "price": 130,
+            "discountPercentage": 13.31,
+            "rating": 4.83,
+            "stock": 110,
+            "brand": "L'Oreal Paris",
+            "category": "chopping board",
+            "thumbnail": "https://bizweb.dktcdn.net/thumb/large/100/469/765/products/thot-nhua-tron-lon-pn601.jpg"
+        },
+        {
+            "id": 26,
+            "title": "Thớt gỗ Chữ Nhật",
+            "description": "Tea tree oil contains a number of compounds, including terpinen-4-ol, that have been shown to kill certain bacteria,",
+            "price": 199,
+            "discountPercentage": 4.09,
+            "rating": 4.52,
+            "stock": 78,
+            "brand": "Hemani Tea",
+            "category": "chopping board",
+            "thumbnail": "https://dungcunhabepbanggo.com/wp-content/uploads/2022/01/thot-go-co-tay-cam.jpg"
+        },
+        {
+            "id": 27,
+            "title": "Thớt gỗ Chữ Nhật",
+            "description": "Dermive Oil Free Moisturizer with SPF 20 is specifically formulated with ceramides, hyaluronic acid & sunscreen.",
+            "price": 199,
+            "discountPercentage": 13.1,
+            "rating": 4.56,
+            "stock": 88,
+            "brand": "Dermive",
+            "category": "chopping board",
+            "thumbnail": "https://adxplywood.com/wp-content/uploads/2022/06/ADXCB006-front.jpg"
+        },
+        {
+            "id": 28,
+            "title": "Thớt Gỗ Thông",
+            "description": "Product name: rorec collagen hyaluronic acid white face serum riceNet weight: 15 m",
+            "price": 300,
+            "discountPercentage": 10.68,
+            "rating": 4.42,
+            "stock": 54,
+            "brand": "ROREC White Rice",
+            "category": "chopping board",
+            "thumbnail": "https://www.goghepthanh.com/uploads/4/1/5/7/41577789/th-t-c-tay-c-m-tram_orig.jpg"
+        },
+        {
+            "id": 29,
+            "title": "Thớt nhựa dài",
+            "description": "Fair & Clear is Pakistan's only pure Freckle cream which helpsfade Freckles, Darkspots and pigments. Mercury level is 0%, so there are no side effects.",
+            "price": 100,
+            "discountPercentage": 16.99,
+            "rating": 4.06,
+            "stock": 140,
+            "brand": "Fair & Clear",
+            "category": "chopping board",
+            "thumbnail": "https://inoxngocthuy.com/image/cache/catalog/products/dung-cu-nau-an/dao-thot/thot-nhua-20x30-cm-mau-do-875-400x400.jpg"
+        },
+        {
+            "id": 30,
+            "title": "Thớt nhựa",
+            "description": "Fine quality Branded Product Keep in a cool and dry place",
+            "price": 99,
+            "discountPercentage": 4.81,
+            "rating": 4.44,
+            "stock": 16,
+            "brand": "Saaf & Khaas",
+            "category": "chopping board",
+            "thumbnail": "https://vn-live-01.slatic.net/p/a9599d596ec3921affc101bbd1d90b3b.jpg"
+        },
+        {
+            "id": 31,
+            "title": "Thớt gỗ tròn trịa",
+            "description": "Fine quality Branded Product Keep in a cool and dry place",
+            "price": 200,
+            "discountPercentage": 4.81,
+            "rating": 4.44,
+            "stock": 43,
+            "brand": "Saaf & Khaas",
+            "category": "chopping board",
+            "thumbnail": "https://hstatic.net/205/1000065205/1/2015/12-30/pr38_master.jpg"
+        },
+        {
+            "id": 32,
+            "title": "Cây lau ẩm",
+            "description": "Fine quality Branded Product Keep in a cool and dry place",
+            "price": 120,
+            "discountPercentage": 4.81,
+            "rating": 4.14,
+            "stock": 28,
+            "brand": "Saaf & Khaas",
+            "category": "chopping board",
+            "thumbnail": "https://moitruonglananh.vn/wp-content/uploads/2019/03/cay-lau-nha-san-ho-1.jpg"
+        },
+        {
+            "id": 33,
+            "title": "Cây lau nhà 360",
+            "description": "Fine quality Branded Product Keep in a cool and dry place",
+            "price": 219,
+            "discountPercentage": 4.81,
+            "rating": 4.11,
+            "stock": 133,
+            "brand": "sunhouse",
+            "category": "chopping board",
+            "thumbnail": "https://sunhouseviet.com/wp-content/uploads/2020/11/cay-lau-nha-xoay-360-do-Happy-Time-KH-CL330S-ava.jpg"
+        },
+        {
+            "id": 34,
+            "title": "Máy hút bụi",
+            "description": "Fine quality Branded Product Keep in a cool and dry place",
+            "price": 390,
+            "discountPercentage": 4.81,
+            "rating": 4.11,
+            "stock": 133,
+            "brand": "sunhouse",
+            "category": "chopping board",
+            "thumbnail": "https://www.ketnoitieudung.vn/data/bt8/may-hut-bui-mini-hitachi-cv-se22v-2200w-1583915514.jpg"
+        },
+        {
+            "id": 35,
+            "title": "Quạt sạc pin Mini Sunhouse",
+            "description": "Fine quality Branded Product Keep in a cool and dry place",
+            "price": 99,
+            "discountPercentage": 4.81,
+            "rating": 4.11,
+            "stock": 16,
+            "brand": "sunhouse",
+            "category": "chopping board",
+            "thumbnail": "https://sunhouse.com.vn/pic/product/images/image-20210409163416-1.jpeg"
+        },
+        {
+            "id": 36,
+            "title": "Bếp Điện Từ Đôi GERTECH GT-5202B",
+            "description": "Fine quality Branded Product Keep in a cool and dry place",
+            "price": 599,
+            "discountPercentage": 4.81,
+            "rating": 4.54,
+            "stock": 19,
+            "brand": "sunhouse",
+            "category": "chopping board",
+            "thumbnail": "https://gertech.vn/wp-content/uploads/2021/03/B%E1%BA%BFp-%C4%91i%E1%BB%87n-t%E1%BB%AB-%C4%91%C3%B4i-Gertech-GT-5202B-1..png"
+        },
+        {
+            "id": 37,
+            "title": "Bếp điện từ đơn cảm ứng NKMEDIA MD-BT1820",
+            "description": "Fine quality Branded Product Keep in a cool and dry place",
+            "price": 549,
+            "discountPercentage": 4.81,
+            "rating": 4.71,
+            "stock": 27,
+            "brand": "sunhouse",
+            "category": "chopping board",
+            "thumbnail": "https://product.hstatic.net/200000311397/product/bep-dien-tu-don-cam-ung-nkmedia-md-bt1820-chuyenquyen.vn-1__1__0db0673222a8442c82dbb850d44f9a66_master.jpg"
+        }
+    ]
+}

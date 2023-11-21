@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Inria+Serif:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+* {
+    box-sizing: border-box;
+  }
+
+  :root {
+    --color-bg: #FBFBFB;
+    --color-primary: #5CB874;
+    --color-shopname: #49AB81;
+    --color-text: #444444;
+    --font: 'DM Sans', sans-serif;
+  }
+
+
+
+
+  a {
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: none;
+  }
+
+  .button {
+    display: inline-block;
+    color: grey;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 6px 20px;
+    background: yellow;
+    border-radius: 5px;
+    border: 2px solid var(--color-primary);
+    
+  }
+
+  .button-highlight {
+    background: #fff;
+    color: var(--color-text);
+
+    border-color: var(--color-shopname);
+
+  }
+
+  .button-highlight:hover {
+    background: var(--color-primary);
+    color: #fff;
+  }
+
+  .btn-secondary {
+    border: 2px solid ;
+  }
